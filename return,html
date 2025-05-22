@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Return Policy | Sweet Tooth 909</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background-color: #fff8f6;
+      color: #333;
+      margin: 0;
+      padding: 0;
+      line-height: 1.6;
+    }
+    header, footer {
+      background: #ff5c8d;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    main {
+      max-width: 900px;
+      margin: auto;
+      padding: 40px 20px;
+      background: #fff0f5;
+      border-radius: 10px;
+    }
+    h1, h2 {
+      color: #d43f67;
+    }
+    a {
+      color: #d43f67;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    footer p {
+      font-size: 0.95rem;
+      margin: 5px 0;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Sweet Tooth 909</h1>
+    <p>Return & Refund Policy</p>
+  </header>
+
+  <main>
+    <h2>Overview</h2>
+    <p>Due to the perishable nature of our baked goods, Sweet Tooth 909 does not accept returns on any food products. We take pride in the quality and freshness of our treats and aim to ensure your complete satisfaction.</p>
+
+    <h2>Incorrect or Damaged Orders</h2>
+    <p>If your order is incorrect or arrives damaged, please contact us within 24 hours of purchase or delivery. Include a description and photo of the issue. We’ll review the case and may offer a replacement or store credit at our discretion.</p>
+
+    <h2>Custom Orders</h2>
+    <p>Custom cakes and specialty baked goods are made to order. Once confirmed, custom orders are non-refundable. If there is an issue with your custom order, please contact us within 24 hours of pickup so we can assess and resolve it.</p>
+
+    <h2>Order Cancellations</h2>
+    <ul>
+      <li>Orders canceled more than 48 hours in advance: Eligible for full refund or store credit.</li>
+      <li>Orders canceled within 48 hours of pickup/delivery: May be subject to a partial refund or store credit, at our discretion.</li>
+      <li>No-shows or cancellations on the same day are not eligible for a refund.</li>
+    </ul>
+
+    <h2>Non-Returnable Items</h2>
+    <ul>
+      <li>Gift cards</li>
+      <li>Used or partially consumed food items</li>
+      <li>Personalized/custom baked goods</li>
+    </ul>
+
+    <h2>Contact Us</h2>
+    <p>If you have questions or concerns regarding our Return Policy, please contact us:</p>
+    <p><strong>Sweet Tooth 909</strong><br>
+      203 S Riverside Ave Suite #200<br>
+      Rialto, CA 92376<br>
+      Phone: (909) 685-5869<br>
+      Email: contact@sweettooth909.com
+    </p>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Sweet Tooth 909. All Rights Reserved.</p>
+    <p><a href="index.html" style="color: white;">Back to Home</a></p>
+  </footer>
+</body>
+</html>
